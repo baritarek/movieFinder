@@ -1,0 +1,11 @@
+https://www.omdbapi.com/
+
+
+//Send all data
+http://www.omdbapi.com/?apikey=[yourkey]&
+
+//Poster API request    
+http://img.omdbapi.com/?apikey=[yourkey]&
+
+//Key
+c70a95
